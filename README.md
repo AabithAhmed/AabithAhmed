@@ -2,133 +2,357 @@ import pypandoc
 
 readme = r'''<div align="center">
 
-# Aabith Z
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:172554,100:0f766e&text=AABITH%20Z&fontColor=ffffff&fontSize=58&fontAlignY=42&desc=AI%20SAFETY%20%7C%20MULTILINGUAL%20LLM%20EVALUATION%20%7C%20PRODUCT%20ENGINEERING&descSize=13&descAlignY=63&animation=fadeIn" width="100%" alt="Aabith Z profile banner"/>
 
-### AI Safety Research · Multilingual LLM Evaluation · Product Engineering
+<br/>
 
-<p>
-  <a href="https://github.com/AabithAhmed">
-    <img src="https://img.shields.io/badge/GitHub-AabithAhmed-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/aabith2004">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:aabithahmed453@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<a href="https://github.com/AabithAhmed"><img src="https://img.shields.io/badge/GitHub-AabithAhmed-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aabith2004"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:aabithahmed453@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7226038"><img src="https://img.shields.io/badge/SSRN-Research-154A8A?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 
-*Final-year Computer Science student at Anna University, working at the intersection of responsible AI, multilingual language-model evaluation, and data-driven product development.*
+<img src="https://komarev.com/ghpvc/?username=AabithAhmed&style=flat-square&color=0f766e&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## About
+<table>
+<tr>
+<td width="62%" valign="top">
 
-I study how large language models behave across languages, with a particular focus on **AI safety and evaluation in Indian languages**. My work includes designing evaluation protocols, building datasets and benchmarks, and analysing model behaviour.
+## `whoami`
 
-Alongside research, I have worked on AI-integrated SaaS products, data analytics, and deployment workflows. I am interested in building reliable AI systems and translating research findings into practical product decisions.
+I'm a final-year Computer Science student at **Anna University**, focused on understanding and evaluating how large language models behave across languages.
 
-- **Research:** LLM evaluation, multilingual NLP, benchmark design, responsible AI
-- **Engineering:** Python, SQL/PostgreSQL, Supabase, VPS deployment
-- **Analytics:** Exploratory data analysis, anomaly detection, BI dashboards
-- **Current direction:** MSc in AI / Computer Science; responsible-AI and product roles
+My current research explores **LLM safety, sycophancy, belief distortion, and multilingual evaluation**, particularly in Tamil and Hindi. I also work on AI-integrated products, data analytics, and deploying practical software systems.
 
-## Featured Research
+- Researching responsible AI and multilingual LLM behaviour
+- Building evaluation datasets, benchmarks, and analysis workflows
+- Developing AI-enabled SaaS products and data tools
+- Interested in research-driven AI products and responsible-AI engineering
 
-### SYCON-Indic — Multilingual Sycophancy Evaluation
+</td>
+<td width="38%" valign="top">
 
-A benchmark studying sycophantic behaviour and belief distortion in multilingual LLMs through multi-turn conversations in **Tamil and Hindi**.
+## `quick_facts`
 
-- 50 evaluation scenarios and 250 conversation logs
-- Reported sycophancy rate: **28% (Tamil)** and **12% (Hindi)**
-- Inter-annotator agreement: **Cohen's κ = 0.82**
-- Public dataset and evaluation scripts
+| | |
+|:--|:--|
+| **Focus** | AI Safety |
+| **Research** | Multilingual LLMs |
+| **Languages** | Tamil · Hindi |
+| **Education** | B.E. CSE |
+| **University** | Anna University |
+| **Based in** | Tamil Nadu, India |
+| **Next step** | MSc AI / CS |
 
-**[Research code & dataset →](https://github.com/AabithAhmed/multilingual-sycophancy-eval)** · **[SSRN preprint · Abstract ID 7226038](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7226038)**
+</td>
+</tr>
+</table>
 
-## Selected Projects
+## Research spotlight
 
-| Project | Overview |
-|---|---|
-| **[SYCON-Indic Benchmark](https://github.com/AabithAhmed/multilingual-sycophancy-eval)** | Public dataset and evaluation scripts for studying Tamil and Hindi LLM sycophancy. |
-| **S-Network** | Construction-industry SaaS platform with a PostgreSQL/Supabase backend and VPS deployment using Nginx and PM2. |
-| **InsightIQ** | Python-based exploratory-analysis and ML dashboard with multi-model comparison for churn insights. |
+<table>
+<tr>
+<td width="100%" valign="top">
 
-## Publications & Working Papers
+### SYCON-Indic
+**Evaluating Sycophantic Behavior and Belief Distortion in Multilingual Large Language Models**
 
-1. **Aabith Z. & Sona G. (2026).** *Evaluating Sycophantic Behavior and Belief Distortion in Multilingual Large Language Models: SYCON-Indic.* SSRN preprint, Abstract ID 7226038.
-2. **Aabith Z. (2026).** *Expert Judgment and Computational Learning.* Zenodo working paper. [DOI: 10.5281/zenodo.23690376](https://doi.org/10.5281/zenodo.23690376)
-3. **BG. Aparna, A. Jhanvi Mathur & Z. Aabith (2026).** *Evaluating Computational Analogues of Human Intuition.* Zenodo working paper. [DOI: 10.5281/zenodo.23690164](https://doi.org/10.5281/zenodo.23690164)
+<a href="https://github.com/AabithAhmed/multilingual-sycophancy-eval"><img src="https://img.shields.io/badge/Repository-View%20dataset-111827?style=flat-square&logo=github" /></a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7226038"><img src="https://img.shields.io/badge/Publication-SSRN-154A8A?style=flat-square" /></a>
 
-## Experience
+A multilingual benchmark examining sycophantic behaviour in Tamil and Hindi LLMs through five-turn adversarial conversations.
 
-**Product Analyst Intern — Semms Solutions**  
-*Apr 2026 – Jul 2026*
-- Led architecture work for S-Network, including PostgreSQL/Supabase schema design and VPS deployment.
-- Integrated a Claude-based feature and handled prompt design and token-cost tracking.
+<table>
+<tr>
+<td align="center" width="25%">
+<strong>50</strong><br/><sub>Evaluation scenarios</sub>
+</td>
+<td align="center" width="25%">
+<strong>250</strong><br/><sub>Conversation logs</sub>
+</td>
+<td align="center" width="25%">
+<strong>κ = 0.82</strong><br/><sub>Inter-annotator agreement</sub>
+</td>
+<td align="center" width="25%">
+<strong>2</strong><br/><sub>Languages evaluated</sub>
+</td>
+</tr>
+</table>
 
-**Data Analytics & BI Intern — Adroit Technologies (IBM Naan Mudhalvan)**  
-*Mar 2026 – Apr 2026*
-- Built Python scripts for exploratory analysis, operational-data cleaning, and anomaly identification.
-- Developed interactive IBM Cognos dashboards for management reporting.
+| Evaluation metric | Tamil | Hindi |
+|:--|:--:|:--:|
+| Sycophancy rate | **28%** | **12%** |
 
-**Client Solutions & Data Analysis Intern — Semms Solutions**  
-*Jun 2024 – Aug 2024*
-- Designed an AI-assisted client risk-profiling tool using LLM APIs.
-- Managed 15+ client accounts and translated business requirements into technical specifications.
+</td>
+</tr>
+</table>
 
-**Founding Research Intern — Artificial Intuition Research Pvt. Ltd.**  
-*Jul 2026 – Aug 2026*
+## Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### SYCON-Indic Benchmark
+<img src="https://img.shields.io/badge/RESEARCH-LLM%20EVALUATION-0f766e?style=flat-square" />
+
+Public dataset and evaluation scripts for studying sycophancy and belief distortion in Tamil and Hindi language models.
+
+**Core areas:** Multilingual NLP · Benchmark design · Annotation · Evaluation
+
+<a href="https://github.com/AabithAhmed/multilingual-sycophancy-eval">↗ Explore repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### S-Network
+<img src="https://img.shields.io/badge/PRODUCT-SAAS-1d4ed8?style=flat-square" />
+
+Construction-industry SaaS platform with a PostgreSQL/Supabase backend and VPS deployment.
+
+**Core areas:** System architecture · PostgreSQL · Supabase · Nginx · PM2
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### InsightIQ
+<img src="https://img.shields.io/badge/ANALYTICS-MACHINE%20LEARNING-7c3aed?style=flat-square" />
+
+Python-based exploratory data analysis and ML dashboard with multi-model comparison for churn insights.
+
+**Core areas:** Python · EDA · ML workflows · Data visualization
+
+</td>
+<td width="50%" valign="top">
+
+### AI-integrated product workflows
+<img src="https://img.shields.io/badge/ENGINEERING-APPLIED%20AI-0f766e?style=flat-square" />
+
+Experience integrating LLM-powered capabilities into product workflows, including prompt design and token-cost tracking.
+
+**Core areas:** Claude API · Prompt engineering · Product analytics
+
+</td>
+</tr>
+</table>
+
+## Publication shelf
+
+<table>
+<tr>
+<td width="8%" align="center">01</td>
+<td>
+
+**Evaluating Sycophantic Behavior and Belief Distortion in Multilingual Large Language Models: SYCON-Indic**
+
+Aabith Z. & Sona G. · 2026 · SSRN preprint
+
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7226038">Read preprint</a> · Abstract ID: 7226038
+
+</td>
+</tr>
+<tr>
+<td align="center">02</td>
+<td>
+
+**Expert Judgment and Computational Learning**
+
+Aabith Z. · 2026 · Zenodo working paper
+
+<a href="https://doi.org/10.5281/zenodo.23690376">10.5281/zenodo.23690376</a>
+
+</td>
+</tr>
+<tr>
+<td align="center">03</td>
+<td>
+
+**Evaluating Computational Analogues of Human Intuition**
+
+BG. Aparna, A. Jhanvi Mathur & Z. Aabith · 2026 · Zenodo working paper
+
+<a href="https://doi.org/10.5281/zenodo.23690164">10.5281/zenodo.23690164</a>
+
+</td>
+</tr>
+</table>
+
+## Experience timeline
+
+<table>
+<tr>
+<td width="25%" valign="top"><strong>Jul 2026 — Aug 2026</strong></td>
+<td valign="top">
+
+**Founding Research Intern · Artificial Intuition Research Pvt. Ltd.**
+
 - Contributed experimental protocols for evaluating fast, low-latency AI judgment.
 - Wrote one working paper, co-authored another, and prepared structured research reports.
 
-**Undergraduate Researcher — Government College of Engineering, Tirunelveli**  
-*Jan 2026 – Aug 2026*
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Jan 2026 — Aug 2026</strong></td>
+<td valign="top">
+
+**Undergraduate Researcher · Government College of Engineering, Tirunelveli**
+
 - Designed and conducted the SYCON-Indic study under Prof. G. Sona.
-- Developed the annotation and validation workflow and publicly released the dataset and evaluation code.
+- Developed annotation and validation workflows; released the dataset and evaluation code publicly.
 
-## Technical Toolkit
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Apr 2026 — Jul 2026</strong></td>
+<td valign="top">
 
-**Programming & Data**
+**Product Analyst Intern · Semms Solutions**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+- Led architecture work for S-Network, including PostgreSQL/Supabase schema design and VPS deployment.
+- Integrated a Claude-based feature and managed prompt design and token-cost tracking.
 
-**AI, Research & Analytics**
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Mar 2026 — Apr 2026</strong></td>
+<td valign="top">
 
-`LLM Evaluation` · `Benchmark Design` · `Prompt Engineering` · `Claude API` · `Multilingual NLP Evaluation` · `Cohen's Kappa` · `Exploratory Data Analysis` · `IBM Cognos` · `Power BI`
+**Data Analytics & BI Intern · Adroit Technologies (IBM Naan Mudhalvan)**
 
-**Deployment & Infrastructure**
+- Built Python scripts for exploratory analysis, data cleaning, and anomaly identification.
+- Developed interactive IBM Cognos dashboards for management reporting.
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Jun 2024 — Aug 2024</strong></td>
+<td valign="top">
 
-## Education
+**Client Solutions & Data Analysis Intern · Semms Solutions**
 
-**B.E. Computer Science and Engineering**  
-Government College of Engineering, Tirunelveli · Anna University  
-Expected mid-2027 · CGPA: 7.6/10
+- Designed an AI-assisted client risk-profiling tool using LLM APIs.
+- Managed 15+ client accounts and translated business requirements into technical specifications.
 
-**Diploma in Information Technology**  
-Sri Sowdambika Polytechnic College, Aruppukottai  
-April 2024 · 87.3%
+</td>
+</tr>
+</table>
 
----
+## Technical stack
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Programming & data**
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql&theme=dark" />
+
+`Python` `SQL` `PostgreSQL`  
+`pandas` `NumPy` `Matplotlib`
+
+</td>
+<td width="33%" valign="top">
+
+**AI & research**
+
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+
+`LLM Evaluation`  
+`Multilingual NLP`  
+`Benchmark Design`  
+`Prompt Engineering`  
+`Claude API`  
+`Cohen's Kappa`
+
+</td>
+<td width="33%" valign="top">
+
+**Deployment & tools**
+
+<img src="https://skillicons.dev/icons?i=supabase,nginx,docker,vercel&theme=dark" />
+
+`Supabase` `Nginx` `PM2`  
+`VPS` `Vercel` `Render`
+
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top">
+
+**Analytics & BI**
+
+<img src="https://img.shields.io/badge/IBM%20Cognos-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-0f766e?style=flat-square" />
+<img src="https://img.shields.io/badge/Machine%20Learning-7c3aed?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+## GitHub dashboard
 
 <div align="center">
 
-**Interested in responsible AI, multilingual evaluation, and research-driven product development.**
+<a href="https://github.com/AabithAhmed">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AabithAhmed&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub stats"/>
+</a>
+<a href="https://github.com/AabithAhmed">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AabithAhmed&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages"/>
+</a>
 
-[GitHub](https://github.com/AabithAhmed) · [LinkedIn](https://www.linkedin.com/in/aabith2004) · [Email](mailto:aabithahmed453@gmail.com)
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=AabithAhmed&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AabithAhmed&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph"/>
+
+</div>
+
+## Education
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**B.E. Computer Science and Engineering**
+
+Government College of Engineering, Tirunelveli  
+Anna University
+
+`Expected: Mid-2027`  
+**CGPA:** 7.6 / 10
+
+</td>
+<td width="50%" valign="top">
+
+**Diploma in Information Technology**
+
+Sri Sowdambika Polytechnic College, Aruppukottai
+
+`Graduated: April 2024`  
+**Overall:** 87.3%
+
+</td>
+</tr>
+</table>
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:aabithahmed453@gmail.com"><img src="https://img.shields.io/badge/Email-aabithahmed453%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aabith2004"><img src="https://img.shields.io/badge/LinkedIn-aabith2004-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/AabithAhmed"><img src="https://img.shields.io/badge/GitHub-AabithAhmed-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/>
+
+*Building and evaluating AI systems with a focus on multilingual behaviour, reliability, and real-world impact.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0f766e,50:1d4ed8,100:7c3aed" width="100%" alt=""/>
 
 </div>
 '''
